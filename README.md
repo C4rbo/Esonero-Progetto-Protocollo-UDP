@@ -1,6 +1,6 @@
 # Secondo esonero (progetto UDP) di Reti di Calcolatori (ITPS A-L) aa 24-25
 
-## Gruppo composto da membri:
+## Gruppo composto da:
     
     1. STUDENTE:
         - Carbonara Alessio [763582]
